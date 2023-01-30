@@ -1,8 +1,9 @@
 /* RESET */
 body{
     padding: 0;
-    margin: 0;
+    /* margin: 0; */
     box-sizing: border-box;
+
 }
 /* COMMON */
 
@@ -17,5 +18,38 @@ body{
 #logo{
     width: 200px;
 }
+#blue-words{
+color: blue;
+}
 /* MAIN */
+#table {
+    
+}
+.blueTable{
+   background-color: lightblue;
+}
+#tableHead{
+    margin: 0;
+    background-color: rgb(45, 157, 236);
+    color: white
+}
+.marker {
+  background-color: yellow;
+}
 /* FOOTER */
+#pinkScreen{
+    padding: 10px;
+    margin-top: 10px;
+    color: aliceblue;
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+#data{
+    padding: 10px;
+    margin-top: 10px;
+    color: aliceblue;
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);  
+}
