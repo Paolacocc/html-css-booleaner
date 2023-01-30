@@ -1,5 +1,21 @@
 /* RESET */
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 /* COMMON */
+
 /* HEADER */
+.header{
+    padding-top: 20px;
+    padding-left: 4px;
+    background-color: lightskyblue;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+#logo{
+    width: 200px;
+}
 /* MAIN */
 /* FOOTER */
